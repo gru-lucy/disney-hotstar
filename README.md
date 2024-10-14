@@ -11,9 +11,9 @@ Most Simple Project you can do when ypu start studying ReactJS.It is only made u
 need to install git and npm in system
 
 ```
-git clone https://github.com/anandhu720/disney-hotstar-clone.git
+git clone https://github.com/gru-lucy/disney-hotstar.git
 
-cd disney-hotstar-clone
+cd disney-hotstar
 
 npm i
 
