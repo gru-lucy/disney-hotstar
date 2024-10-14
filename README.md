@@ -21,5 +21,5 @@ npm start
 
 ## Website link
 
-https://hotstar-88d5e.web.app
+https://disney-hotstar-beta.vercel.app/
 
